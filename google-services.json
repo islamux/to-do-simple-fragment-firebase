@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "613985259616",
+    "project_id": "to-do-kotlin-b6bf3",
+    "storage_bucket": "to-do-kotlin-b6bf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613985259616:android:ee9bc8f2fa808adb663305",
+        "android_client_info": {
+          "package_name": "com.islamux.to_do_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3IIzSJ1adE2dNEtHOXqu2p65oCEzf450"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
